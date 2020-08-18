@@ -1,7 +1,7 @@
 # Tipos Primitivos
 
 ## Dados lógicos
-* **boolean**: Não é um valor numérico, mas só aceita true ou false.
+* **boolean**: Não é um valor numérico e só aceita true ou false.
 
 ## Dados numéricos inteiros 
 * **byte**: É um tipo de dado que armazena apenas 8 bits de informação, ou seja, um número inteiro entre -128 e 127. Recomenda-se seu uso em caso de economia de memória.
