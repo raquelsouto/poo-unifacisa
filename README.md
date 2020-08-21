@@ -5,3 +5,4 @@ Este é o meu repositório com alguns exercícios que serão desenvolvidos na ca
 ## RoadMap
 
 [1 - Tipos primitivos](doc/TiposPrimitivos.md)
+[2 - Tipos de operadores](doc/TiposDeOperadores.md)
