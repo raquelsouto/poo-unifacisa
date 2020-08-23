@@ -1,6 +1,6 @@
 # Tipos de Operadores
 
-* **Operadores de atribuição**: Utilizados para definir o valor inicial ou sobrescrebver o valor de uma variável.   
+* **Operadores de atribuição**: Utilizados para definir o valor inicial ou sobrescrever o valor de uma variável.   
     ~~~java   
     int lado = 2;
     int idade = 27;  
@@ -31,7 +31,6 @@
     Resposta = 10
     
 
-
 * **Operadores de igualdade**: Verificam se o valor ou o resultado da expressão lógica. Como por exemplo: '==' (igual) ou '!=' (diferente).  
     ~~~java
     int valorA = 8;
@@ -56,7 +55,7 @@
     }
     ~~~
 
-* **Operadores lógicos**: É um recurso que nos permite criar expressões lógicas maiores a partir da junção de duas ou mais expressões. Por exemplo: '&&' (and) e '||' (ou).
+* **Operadores lógicos**: É um recurso que nos permite criar expressões lógicas maiores a partir da junção de duas ou mais expressões. Por exemplo: '&&' (and) e '||' (or).
 
     ~~~java
     (if (1 == (2-1)) && (2 == (1+1))) { 
