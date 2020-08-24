@@ -1,13 +1,13 @@
+import java.util.Locale;
 import java.util.Scanner;
 
 public class Main {
 
     public static void main(String[] args) {
+        Locale.setDefault(Locale.US);
         Scanner scanner = new Scanner(System.in);
-        String dinheiroString = scanner.nextLine();
+        double valor = scanner.nextDouble();
         scanner.close();
-        dinheiroString = dinheiroString.replace(',','.');
-        double valor = Double.parseDouble(dinheiroString);
 
         //------------ DIVIDINDO AS NOTAS -----------
         valor += 0.001;
