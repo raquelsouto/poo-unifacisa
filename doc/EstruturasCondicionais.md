@@ -42,9 +42,9 @@ Exemplo2:
         double salario = 5500;
         if (salario < 1000) { 
             System.out.println("Isento de pagar imposto de renda");
-        } else if (salario > 1000 || salario < 2500) { 
+        } else if (salario > 1000 && salario < 2500) { 
             System.out.println("Paga imposto de 5%");
-        } else if (salario > 2500 || salario < 4000) { 
+        } else if (salario > 2500 && salario < 4000) { 
             System.out.println("Paga imposto de 10%");
         } else if (salario > 4000) { 
             System.out.println("Paga imposto de 20%");
