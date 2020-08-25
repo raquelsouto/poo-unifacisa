@@ -54,6 +54,7 @@ Exemplo2:
 
 * **Operador Ternário**: É semelhante ao if-else, porém a diferença é que precisa-se devolver um valor após o teste em apenas uma linha.
     * *Sintaxe: (condição) ? se for verdade : se for falso*  
+    Ou seja, para qualquer teste ele devolve uma expressão booleana, por isso define-se os dois parâmetros (para quando a expressão seja verdadeira ou falsa).
     Exemplo:
 ~~~java
     public static void main(String[] args) {
