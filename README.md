@@ -8,3 +8,14 @@ Este é o meu repositório com alguns exercícios que serão desenvolvidos na ca
 [2 - Tipos de operadores](doc/TiposDeOperadores.md)  
 [3 - [GIST] Comandos git](https://gist.github.com/raquelsouto/340954086b8d504b9dd38e01e5313582)  
 [4 - Estruturas condicionais](doc/EstruturasCondicionais.md) 
+
+
+## Exercícios  
+
+### 1 - Uri
+
+[1021 - Notas e Moedas](exercicios/uri/1021)
+
+### 2 - Básicos  
+
+[01](exercicios/basicos/01)
