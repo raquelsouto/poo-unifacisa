@@ -1,4 +1,4 @@
-# Tipos de Estruturas Condicionais
+# Estruturas Condicionais
 
 * **if** : É uma estrutura de decisão utilizada para impor uma ou mais condições para serem executadas. A condição só será executada quando a expressão booleana seja true, caso seja a expressão seja false, pula a ação.
 ~~~java
