@@ -18,4 +18,7 @@ Este é o meu repositório com alguns exercícios que serão desenvolvidos na ca
 
 ### 2 - Básicos  
 
-[01](exercicios/basicos/01)
+|                             |                             |                             |                             |                             |
+|            :---:            |            :---:            |            :---:            |             :---:           |              :---:          |
+| [01](exercicios/basicos/01) | [02](exercicios/basicos/02) | [03](exercicios/basicos/03) | [04](exercicios/basicos/04) | [05](exercicios/basicos/05) |
+| [06](exercicios/basicos/06) | [07](exercicios/basicos/07) |   |   |   |
