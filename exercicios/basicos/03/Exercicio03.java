@@ -12,19 +12,14 @@ public class Exercicio03 {
     produto.close();
     
     if(valorProduto > 0 && valorProduto < 100) {
-        double desconto = valorProduto * 0.95;
-        System.out.println("O valor total final do produto R$ " + desconto);
-        System.out.println("O produto é: " + nomeProduto);
+        valorProduto *= 0.95;
     } else if (valorProduto > 100 && valorProduto < 500) {
-        double desconto = valorProduto * 0.90;
-        System.out.println("O valor total final do produto R$ " + desconto);
-        System.out.println("O produto é: " + nomeProduto);
+       valorProduto *= 0.90;
     } else if (valorProduto > 500) {
-        double desconto = valorProduto * 0.85;
-        System.out.println("O valor total final do produto R$ " + desconto);
-        System.out.println("O produto é: " + nomeProduto);
+        valorProduto *= 0.85;
     }
-    
+    System.out.println("O produto é: " + nomeProduto);
+    System.out.println("O valor total final é R$ " + valorProduto);
     }
 
 }
