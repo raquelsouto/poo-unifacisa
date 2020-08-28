@@ -9,9 +9,8 @@ Exemplo:
             System.out.println("Sem permissão para entrar. Você tem apenas " + idade + " anos.");
             idade ++;
         } while (idade <= 18);
-        
     }
-}
+
 Resultado: Não é permitido a entrada, você tem apenas 15 anos
 Não é permitido a entrada, você tem apenas 16 anos
 Não é permitido a entrada, você tem apenas 17 anos
@@ -26,7 +25,6 @@ Exemplo:
         while (contador <= 10) {
                 System.out.println("Contador " + contador);
                 ++contador;
-            }
         }
     }
 ~~~
