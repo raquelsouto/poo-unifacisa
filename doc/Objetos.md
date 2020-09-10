@@ -23,7 +23,7 @@ ativação de um método definido no objeto.*
 
 ### Alocação dos dados na memória
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/02K3rnz/objeto-memoria-RAM.png" alt="objeto-memoria-RAM" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/SnN6cK5/objeto-memoria-RAM.png" alt="objeto-memoria-RAM" border="0"></a>
 
 Exemplo:
 ~~~java
