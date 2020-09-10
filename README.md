@@ -13,11 +13,11 @@ Este é o meu repositório com alguns exercícios que serão desenvolvidos na ca
 [5 - Estruturas de repetição ](doc/EstruturasDeRepeticao.md)
 
 ### Programação Orientada a Objeto
-1 - Classe, Objeto e Construtores  
+1 - Classe, Objeto e Construtores   
 &nbsp;&nbsp;&nbsp;&nbsp;[1.1 - Classes](doc/Classes.md)  
 &nbsp;&nbsp;&nbsp;&nbsp;[1.2 - Objetos](doc/Objetos.md)  
 &nbsp;&nbsp;&nbsp;&nbsp;[1.3 - Construtores](doc/Construtores.md)  
-2 - Java
+2 - Java  
 &nbsp;&nbsp;&nbsp;&nbsp;[2.1 - Scanner](doc/Scanner.md)  
 
 ## Exercícios  
