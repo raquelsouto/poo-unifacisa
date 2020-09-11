@@ -33,8 +33,13 @@ Este é o meu repositório com alguns exercícios que serão desenvolvidos na ca
 | [01](exercicios/basicos/01) | [02](exercicios/basicos/02) | [03](exercicios/basicos/03) | [04](exercicios/basicos/04) | [05](exercicios/basicos/05) |
 | [06](exercicios/basicos/06) | [07](exercicios/basicos/07) |   |   |   |
 
-### 3 - POO
+### 3 - Classes e Objetos
 
 |                             |                             |                             |                             |                             |
 |            :---:            |            :---:            |            :---:            |             :---:           |              :---:          |
-| [01](exercicios/poo/01) | [02](exercicios/poo/02) | |
+| [01](exercicios/classes-objetos/01) | [02](exercicios/classes-objetos/02) | |
+
+### 3 - Variáveis e Métodos de Instância e de Classe
+|                             |                             |                             |                             |                             |
+|            :---:            |            :---:            |            :---:            |             :---:           |              :---:          |
+| [01](exercicios/variav-metod-inst-classe/01) | [02](exercicios/variav-metod-inst-classe/02) | [03](variav-metod-inst-classe/03)|
