@@ -37,9 +37,9 @@ Este é o meu repositório com alguns exercícios que serão desenvolvidos na ca
 
 |                             |                             |                             |                             |                             |
 |            :---:            |            :---:            |            :---:            |             :---:           |              :---:          |
-| [01](exercicios/classes-objetos/01) | [02](exercicios/classes-objetos/02) | |
+| [01](exercicios/classesObjetos/01) | [02](exercicios/classesObjetos/02) | |
 
 ### 3 - Variáveis e Métodos de Instância e de Classe
 |                             |                             |                             |                             |                             |
 |            :---:            |            :---:            |            :---:            |             :---:           |              :---:          |
-| [01](exercicios/variav-metod-inst-classe/01) | [02](exercicios/variav-metod-inst-classe/02) | [03](variav-metod-inst-classe/03)|
+| [01](exercicios/variaveisMetodosDeInstanciaDeClasse/01) | [02](exercicios/variaveisMetodosDeInstanciaDeClasse/02) | [03](variaveisMetodosDeInstanciaDeClasse/03)|
