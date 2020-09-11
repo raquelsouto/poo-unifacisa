@@ -42,4 +42,4 @@ Este é o meu repositório com alguns exercícios que serão desenvolvidos na ca
 ### 3 - Variáveis e Métodos de Instância e de Classe
 |                             |                             |                             |                             |                             |
 |            :---:            |            :---:            |            :---:            |             :---:           |              :---:          |
-| [01](exercicios/variaveisEMetodosDeInstanciaDeClasse/01) | [02](exercicios/variaveisEMetodosDeInstanciaDeClasse/02) | [03](variaveisEMetodosDeInstanciaDeClasse/03)|
+| [01](exercicios/variaveisEMetodosDeInstanciaDeClasse/01) | [02](exercicios/variaveisEMetodosDeInstanciaDeClasse/02) | [03](exercicios/variaveisEMetodosDeInstanciaDeClasse/03)|
