@@ -13,7 +13,7 @@ public class Classificados {
         Imovel casa3 = new Imovel("Leblon", 6, 3, 5, 540, true, true);
         System.out.println(casa3.toString());
 
-        Imovel apto2 = new Imovel("Alto Branca", 3, 2, 2, 1, 2, 60, false, true, true);
+        Imovel apto2 = new Imovel("Alto Branco", 3, 2, 2, 1, 2, 60, false, true, true);
         System.out.println(apto2.toString());
 
 
