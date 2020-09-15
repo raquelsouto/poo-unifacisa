@@ -17,7 +17,7 @@ public class LojaDeCarro {
         System.out.println(carro5.toString());
         
         
-        //VALORES DOS CARROS SEM PROMOÇÃO 
+        //VALORES DOS CARROS COM PROMOÇÃO 
         Carro.promocao = true;
         
         System.out.println(carro1);
