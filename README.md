@@ -19,6 +19,10 @@ Este é o meu repositório com alguns exercícios que serão desenvolvidos na ca
 &nbsp;&nbsp;&nbsp;&nbsp;[1.3 - Construtores](doc/Construtores.md)  
 2 - Java  
 &nbsp;&nbsp;&nbsp;&nbsp;[2.1 - Scanner](doc/Scanner.md)  
+&nbsp;&nbsp;&nbsp;&nbsp;[2.2 - Strings](doc/String.md)
+
+
+[3 - Encapsulamento](doc/Encapsulamento.md)
 
 ## Exercícios  
 
