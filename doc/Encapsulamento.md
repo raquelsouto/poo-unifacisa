@@ -52,7 +52,7 @@ public class Conta {
 }
 ~~~
 Observações sobre o exemplo:
-* O controle sobre o saldo e titulaR está centralizado, ou seja, ninguém consegue acessá-lo. A única classe responsável pelos seus próprios atributos é a classe Conta;
+* O controle sobre o saldo e titular está centralizado, ou seja, ninguém consegue acessá-lo. A única classe responsável pelos seus próprios atributos é a classe Conta;
 * O modificador private faz com que ninguém consiga modificar, nem mesmo ler, os atributos. Portanto, para se ter acesso, recorre-se a utilização de métodos, que são os **getters e setters**.
 
     *Getteres e Setters*: Ajudam a proteger osatributos, bem como possibilita modificar algo em um só lugar. Isso é o encapsulamento pois esconde a maneira como os objetos guardam seus dados.
