@@ -21,7 +21,8 @@ Este é o meu repositório com alguns exercícios que serão desenvolvidos na ca
 &nbsp;&nbsp;&nbsp;&nbsp;[2.1 - Scanner](doc/Scanner.md)  
 &nbsp;&nbsp;&nbsp;&nbsp;[2.2 - Strings](doc/String.md)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[2.2.1 - Principais métodos da classe String](doc/metodosString.md)  
-&nbsp;&nbsp;&nbsp;&nbsp;[2.3 - Array](doc/Array.md)   
+&nbsp;&nbsp;&nbsp;&nbsp;[2.3 - Array](doc/Array.md)  
+ 
 [3 - Encapsulamento](doc/Encapsulamento.md)
 
 
