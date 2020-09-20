@@ -19,10 +19,11 @@ Este é o meu repositório com alguns exercícios que serão desenvolvidos na ca
 &nbsp;&nbsp;&nbsp;&nbsp;[1.3 - Construtores](doc/Construtores.md)  
 2 - Java  
 &nbsp;&nbsp;&nbsp;&nbsp;[2.1 - Scanner](doc/Scanner.md)  
-&nbsp;&nbsp;&nbsp;&nbsp;[2.2 - String](doc/String.md)
-
-
+&nbsp;&nbsp;&nbsp;&nbsp;[2.2 - Strings](doc/String.md)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[2.2.1 - Principais métodos da classe String](doc/metodosString.md)  
+&nbsp;&nbsp;&nbsp;&nbsp;[2.3 - Array](doc/Array.md)   
 [3 - Encapsulamento](doc/Encapsulamento.md)
+
 
 ## Exercícios  
 
@@ -47,3 +48,13 @@ Este é o meu repositório com alguns exercícios que serão desenvolvidos na ca
 |                             |                             |                             |                             |                             |
 |            :---:            |            :---:            |            :---:            |             :---:           |              :---:          |
 | [01](exercicios/variaveisEMetodosDeInstanciaDeClasse/01) | [02](exercicios/variaveisEMetodosDeInstanciaDeClasse/02) | 
+
+### 4 - Encapsulamento e Array
+|                             |                             |                             |                             |                             |
+|            :---:            |            :---:            |            :---:            |             :---:           |              :---:          |
+| [01](exercicios/encapsulamento/01) | 
+
+### 5 - Strings
+|                             |                             |                             |                             |                             |
+|            :---:            |            :---:            |            :---:            |             :---:           |              :---:          |
+| [01](exercicios/strings/01) | 
