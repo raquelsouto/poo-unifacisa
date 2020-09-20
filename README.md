@@ -53,7 +53,7 @@ Este é o meu repositório com alguns exercícios que serão desenvolvidos na ca
 ### 4 - Encapsulamento e Array
 |                             |                             |                             |                             |                             |
 |            :---:            |            :---:            |            :---:            |             :---:           |              :---:          |
-| [01](exercicios/encapsulamento/01) | 
+| [01](exercicios/encapsulamentoEArray/01) | 
 
 ### 5 - Strings
 |                             |                             |                             |                             |                             |
