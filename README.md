@@ -50,7 +50,7 @@ Este é o meu repositório com alguns exercícios que serão desenvolvidos na ca
 |            :---:            |            :---:            |            :---:            |             :---:           |              :---:          |
 | [01](exercicios/variaveisEMetodosDeInstanciaDeClasse/01) | [02](exercicios/variaveisEMetodosDeInstanciaDeClasse/02) | 
 
-### 4 - Encapsulamento e Array
+### 4 - Encapsulamento e Arrays
 |                             |                             |                             |                             |                             |
 |            :---:            |            :---:            |            :---:            |             :---:           |              :---:          |
 | [01](exercicios/encapsulamentoEArray/01) | 
