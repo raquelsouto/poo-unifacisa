@@ -25,9 +25,9 @@ String java = new String ("Raquel Souto de Oliveira Winkeler");
     * Quando criamos uma variável String e atribuímos um valor a ela, a JVM procura no pool por uma String de igual valor. Se for encontrado, o compilador retornará uma referência do endereço de memória, sem alocar memória adicional. Senão ele será adicionado ao pool (interno) e sua referência será retornada;
     * Ambos são os objetos String, entretanto, sua principal diferença é que o operador new() - sempre cria um novo objeto - e quando criamos uma String usando literal - ele é internado.
 
-<a href="https://ibb.co/VBYFWk8"><img src="https://i.ibb.co/bd54gGn/string.png" alt="string" border="0"></a><br /><a target='_blank' href='https://pt-br.imgbb.com/'>imagens png gratis</a><br />
+<a href="https://ibb.co/VBYFWk8"><img src="https://i.ibb.co/bd54gGn/string.png" alt="string" border="0"></a>
 
-* Já Quando criamos uma String por meio do operador new, o compilador Java cria um novo objeto e o armazena no espaço de heap reservado para a JVM.
+* Já quando criamos uma String por meio do operador new, o compilador Java cria um novo objeto e o armazena no espaço de heap reservado para a JVM.
 
 Exemplo 3: Invocando um método qualquer da classe String
 ~~~java
