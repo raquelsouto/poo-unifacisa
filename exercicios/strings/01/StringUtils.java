@@ -19,7 +19,7 @@ public class StringUtils {
 
         String fraseTesteContVogais = "In God We Trust";
         int contadorVogais = contaVogais(fraseTesteContVogais);
-        System.out.println("O n�mero de vogais na frase \"" + fraseTesteContVogais + "\" ?: " + contadorVogais);
+        System.out.println("O número de vogais na frase \"" + fraseTesteContVogais + "\" ?: " + contadorVogais);
 
         String fraseSemEspacosSuperfluos = removeEspacosSuperfluos(" Hay que endurecerse,    pero sin perder la ternura jamás ");
         System.out.println(fraseSemEspacosSuperfluos);
@@ -65,7 +65,7 @@ public class StringUtils {
     }
 
 
-    // Atentar que nesse caso, n�o deve ser inserido como par�metro uma frase, mas apenas uma palavra.
+    // Atentar que nesse caso, não deve ser inserido como parâmetro uma frase, mas apenas uma palavra.
     public static boolean ehPalindromo(String palavra) {
         boolean palindromo = true;
 
