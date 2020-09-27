@@ -63,4 +63,4 @@ Este é o meu repositório com alguns exercícios que serão desenvolvidos na ca
 ### 6 - Arrays
 |                             |                             |                             |                             |                             |
 |            :---:            |            :---:            |            :---:          |             :---:           |              :---:          |
-| [01](exercicios/arrays/01) | [02](exercicios/arrays/02) | [03](exercicios/arrays/03) | 
+| [01](exercicios/arrays/01) |   | 
