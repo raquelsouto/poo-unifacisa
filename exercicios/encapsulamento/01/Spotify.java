@@ -1,5 +1,3 @@
-import javax.management.Descriptor;
-
 public class Spotify {
     private Musica [] musicas;
     private int quantidadeMusicas = 0;
