@@ -141,4 +141,23 @@ public class Spotify {
         } 
         System.out.println(musicas[index].getNomeDaMusica());
     }
+    
+    public void QuantidadeReproducao(String nomeMusica) {
+        System.out.println("========= MUSICAS COM MENOR DURAÇÃO ===========");
+        nomeMusica = nomeMusica.toLowerCase();
+        
+        int cont = 0;
+        for (int i = 0; i < quantidadeMusicas; i++) {
+            if(musicas[i].getNomeDaMusica().toLowerCase().equals(nomeMusica)) {
+                cont++;
+            }
+        } if (cont > 0) {
+            System.out.println("A musica " + nomeMusica + " foi reproduzida " + cont + " vezes " );
+       
+        } else {
+            System.out.println("NENHUMA!");
+        
+        }
+    }
+    
 }
