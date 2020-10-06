@@ -35,32 +35,32 @@ Este é o meu repositório com alguns exercícios que serão desenvolvidos na ca
 ### 2 - Básicos  
 
 |                             |                             |                             |                             |                             |
-|            :---:            |            :---:            |            :---:          |             :---:           |              :---:          |
+|            :---:            |            :---:            |            :---:            |             :---:           |              :---:          |
 | [01](exercicios/basicos/01) | [02](exercicios/basicos/02) | [03](exercicios/basicos/03) | [04](exercicios/basicos/04) | [05](exercicios/basicos/05) |
 | [06](exercicios/basicos/06) | [07](exercicios/basicos/07) |   |   |   |
 
 ### 3 - Classes e Objetos
 
-|                             |                             |                             |                             |                             |
+|                             |                             |                           |                             |                             |
 |            :---:            |            :---:            |            :---:          |             :---:           |              :---:          |
 | [01](exercicios/classesObjetos/01) | [02](exercicios/classesObjetos/02) | |
 
 ### 3 - Variáveis e Métodos de Instância e de Classe
-|                             |                             |                             |                             |                             |
+|                             |                             |                           |                             |                             |
 |            :---:            |            :---:            |            :---:          |             :---:           |              :---:          |
 | [01](exercicios/variaveisEMetodosDeInstanciaDeClasse/01) | [02](exercicios/variaveisEMetodosDeInstanciaDeClasse/02) | 
 
 ### 4 - Encapsulamento
-|                             |                             |                             |                             |                             |
+|                             |                             |                           |                             |                             |
 |            :---:            |            :---:            |            :---:          |             :---:           |              :---:          |
 | [01](exercicios/encapsulamento/01) | 
 
 ### 5 - Strings
-|                             |                             |                             |                             |                             |
+|                             |                             |                           |                             |                             |
 |            :---:            |            :---:            |            :---:          |             :---:           |              :---:          |
 | [01](exercicios/strings/01) | 
 
 ### 6 - Arrays
-|                             |                             |                             |                             |                             |
+|                             |                             |                           |                             |                             |
 |            :---:            |            :---:            |            :---:          |             :---:           |              :---:          |
-| [01](exercicios/arrays/01) |   | 
+| [01](exercicios/arrays/01) | [02](exercicios/arrays/02)   | 
