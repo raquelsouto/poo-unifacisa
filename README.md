@@ -22,7 +22,8 @@ Este é o meu repositório com alguns exercícios que serão desenvolvidos na ca
 &nbsp;&nbsp;&nbsp;&nbsp;[2.2 - Strings](doc/String.md)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[2.2.1 - Principais métodos da classe String](doc/metodosString.md)  
 &nbsp;&nbsp;&nbsp;&nbsp;[2.3 - Array](doc/Array.md)  
- 
+&nbsp;&nbsp;&nbsp;&nbsp;[2.4 - ArrayList e LinkedList](doc/ArrayList.md)
+
 [3 - Encapsulamento](doc/Encapsulamento.md)
 
 
@@ -63,4 +64,4 @@ Este é o meu repositório com alguns exercícios que serão desenvolvidos na ca
 ### 6 - Arrays
 |                             |                             |                           |                             |                             |
 |            :---:            |            :---:            |            :---:          |             :---:           |              :---:          |
-| [01](exercicios/arrays/01) | [02](exercicios/arrays/02)   | 
+| [01](exercicios/arrays/01) | [02](exercicios/arrays/02)   |  [03](exercicios/arrays/03)
