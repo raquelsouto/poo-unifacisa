@@ -65,3 +65,8 @@ Este é o meu repositório com alguns exercícios que serão desenvolvidos na ca
 |                             |                             |                           |                             |                             |
 |            :---:            |            :---:            |            :---:          |             :---:           |              :---:          |
 | [01](exercicios/arrays/01) | [02](exercicios/arrays/02)   |  [03](exercicios/arrays/03)
+
+### 7 - Listas
+|                             |                             |                           |                             |                             |
+|            :---:            |            :---:            |            :---:          |             :---:           |              :---:          |
+| [01](exercicios/arraylist/01) | [02](exercicios/arraylist/02)   |  [03](exercicios/arraylist/03) 
