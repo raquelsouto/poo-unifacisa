@@ -20,11 +20,11 @@ public class TestaLojaDeCarro {
         System.out.println("\n" + "-========== Carros Disponíveis ==============-");
         loja1.exibirCarrosDisponíveis();
         
-        System.out.println("\n" + "-======= Quantidade de carros disponíveis para venda =========-");
-        //Exibir a quantidade de carros disponíveis para venda
+        System.out.println("\n" + "-======= Quantidade de carros vendidos =========-");
+        //Exibir a quantidade de carros vendidos
         loja1.venderCarro(carro2.getId());
         loja1.venderCarro(carro3.getId());
-        loja1.venderCarro(carro3.getId());
+        System.out.println(loja1.venderCarro(carro2.getId()));
         
         
         System.out.println("\n" + "-======= Valor acumulado de vendas =========-");

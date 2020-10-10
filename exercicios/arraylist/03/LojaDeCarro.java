@@ -1,6 +1,5 @@
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Random;
 
 public class LojaDeCarro {
 
@@ -40,7 +39,7 @@ public class LojaDeCarro {
                 carrosDisponiveis.remove(carrosDisponiveis.get(i));
             }
         } 
-        return carrosDisponiveis.size(); //Como não foi especificado o que deveria ser o retorno da função
+        return carrosVendidos.size(); //Como não foi especificado o que deveria ser o retorno da função
         //coloquei que seria a quantidade de carros vendidos
     }
 
