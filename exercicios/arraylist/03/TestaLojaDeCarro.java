@@ -33,6 +33,9 @@ public class TestaLojaDeCarro {
         System.out.println("R$ " + loja1.computaApuradoDasVendas());
         
         
+        System.out.println("\n" + "-======= Lista com os carros vendidos =========-");
+        //Limpa a lista de carros vendidos
+        loja1.limparVendidos();
     }
 
 }

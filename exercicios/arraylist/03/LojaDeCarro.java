@@ -67,6 +67,7 @@ public class LojaDeCarro {
 
     public void limparVendidos() {
         carrosVendidos.clear();
+        System.out.println(carrosVendidos);
     }
 
 }
