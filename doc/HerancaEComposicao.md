@@ -112,7 +112,7 @@ Observações:
 
 ### **Sobrescrita**
 
-	Sobrescrever métodos em Java é como herdar habilidades dos seus pais, mas dar a sua personalidade para essas habilidades.
+	Sobrescrever métodos em Java é como herdar habilidades dos seus pais, mas dá a sua personalidade para essas habilidades.
 
 * A sobrescrita (ou override) está diretamente relacionada à orientação a objetos, mais especificamente com a herança. Com a sobrescrita, conseguimos especializar os métodos herdados das superclasses, alterando o seu comportamento nas subclasses por um mais específico;
 * A sobrescrita de métodos consiste basicamente em criar um novo método na classe filha contendo a mesma assinatura e mesmo tipo de retorno do método sobrescrito;
