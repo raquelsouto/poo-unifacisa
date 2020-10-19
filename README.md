@@ -24,7 +24,7 @@ Este é o meu repositório com alguns exercícios que serão desenvolvidos na ca
 &nbsp;&nbsp;&nbsp;&nbsp;[2.3 - Array](doc/Array.md)  
 &nbsp;&nbsp;&nbsp;&nbsp;[2.4 - ArrayList e LinkedList](doc/ArrayList.md)  
 [3 - Encapsulamento](doc/Encapsulamento.md)    
-[4 - Herança e composição](doc/HerancaeComposicao.md)
+[4 - Herança e composição](doc/HerancaEComposicao.md)
 
 ## Exercícios  
 
