@@ -110,7 +110,7 @@ Observações:
 * Trata-se da palavra especial final, utilizada na declaração de métodos e atributos, que só permite uma declaração da variável ou comportamento em questão. Isso significa que se na listagem 3 o método tirarCopias(int); da classe pessoa fosse definido como final, seria proibido reescrevê-lo na subclasse. A declaração do método final seria como mostrado na listagem 5, a seguir.
 
 
-### **Sobrescrira**
+### **Sobrescrita**
 
 	*Sobrescrever métodos em Java é como herdar habilidades dos seus pais, mas dar a sua personalidade para essas habilidades.*
 
