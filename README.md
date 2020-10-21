@@ -25,6 +25,7 @@ Este é o meu repositório com alguns exercícios que serão desenvolvidos na ca
 &nbsp;&nbsp;&nbsp;&nbsp;[2.4 - ArrayList e LinkedList](doc/ArrayList.md)  
 [3 - Encapsulamento](doc/Encapsulamento.md)    
 [4 - Herança e composição](doc/HerancaEComposicao.md)
+[5 - Polimorfismo](doc/Polimorfismo.md)
 
 ## Exercícios  
 
@@ -75,3 +76,8 @@ Este é o meu repositório com alguns exercícios que serão desenvolvidos na ca
 |                             |                             |                           |                             |                             |
 |            :---:            |            :---:            |            :---:          |             :---:           |              :---:          |
 | [01](exercicios/heranca/01) | 
+
+### 9 - Polimorfismo
+|                             |                             |                           |                             |                             |
+|            :---:            |            :---:            |            :---:          |             :---:           |              :---:          |
+| [01](exercicios/polimorfismo/01) | [02](exercicios/polimorfismo/02) |
