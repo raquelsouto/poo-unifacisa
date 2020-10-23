@@ -9,6 +9,7 @@ public class Preguica extends Animal {
         System.out.println("Não");
     }
     
+    @Override
     public void emitirSom() {
         System.out.println("ZZzzzzZZZZzzzz");
     }
