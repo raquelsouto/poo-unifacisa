@@ -23,9 +23,11 @@ Este é o meu repositório com alguns exercícios que serão desenvolvidos na ca
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[2.2.1 - Principais métodos da classe String](doc/metodosString.md)  
 &nbsp;&nbsp;&nbsp;&nbsp;[2.3 - Array](doc/Array.md)  
 &nbsp;&nbsp;&nbsp;&nbsp;[2.4 - ArrayList e LinkedList](doc/ArrayList.md)  
+ 
 [3 - Encapsulamento](doc/Encapsulamento.md)    
 [4 - Herança e composição](doc/HerancaEComposicao.md)  
-[5 - Polimorfismo](doc/Polimorfismo.md)
+[5 - Polimorfismo](doc/Polimorfismo.md)  
+&nbsp;&nbsp;&nbsp;&nbsp;[5.1 - Classes abstratas](doc/ClasseAbstrata.md) 
 
 ## Exercícios  
 
@@ -80,4 +82,4 @@ Este é o meu repositório com alguns exercícios que serão desenvolvidos na ca
 ### 9 - Polimorfismo
 |                             |                             |                           |                             |                             |
 |            :---:            |            :---:            |            :---:          |             :---:           |              :---:          |
-| [01](exercicios/polimorfismo/01) | [02](exercicios/polimorfismo/02) |
+| [01](exercicios/polimorfismo/01) | [02](exercicios/polimorfismo/02) | [03](exercicios/polimorfismo/03)
