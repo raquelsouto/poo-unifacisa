@@ -6,6 +6,7 @@ public class Uber {
     private ContaCorrente contaDaEmpresa;
     private List<Corrida> listaCorridasPendentes;
     private List<Motorista> listaMotoristas;
+    boolean corridaDinamica = false;
 
 
     public Uber() {
@@ -35,8 +36,7 @@ public class Uber {
 
         if (listaCorridasPendentes.size() > 50) {
             for (int i = 0; i < listaCorridasPendentes.size(); i++) {
-                valorCorridaDinamica = (listaCorridasPendentes.get(i).PrecoBase()) + 
-                        (listaCorridasPendentes.get(i).quantidadeKm * listaCorridasPendentes.get(i).precoDoKm() * 1.1);
+                valorCorridaDinamica = (listaCorridasPendentes.get(i).valorDaCorridaFinal() * 1.1);
                 System.out.println("\tO valor da corrida dinâmica R$ " + valorCorridaDinamica);
             }
         } else {
@@ -84,6 +84,7 @@ public class Uber {
         Motorista motoristaComMenorSaldo = listaMotoristas.get(verificaMotoristaComMenorSaldo());
         Corrida corridaMapeada = listaCorridasPendentes.get(0);
         
+        checkCorridaDinamica();
         double valorDaCorrida = corridaMapeada.valorDaCorridaFinal();
 
         //Transferir para a conta do uber 40% do valor
@@ -96,12 +97,15 @@ public class Uber {
         motoristaComMenorSaldo.getContaRecebimento().depositar(valorParaTransferirParaOMotorista);
         System.out.println("\tFoi transferido para o motorista R$" + valorParaTransferirParaOMotorista);
                 
-        System.out.println("\tO saldo do UBER eh: R$ " + contaDaEmpresa.getSaldo());
+        System.out.println("\tO saldo do UBER é: R$ " + contaDaEmpresa.getSaldo());
         
-        System.out.println("\tO nome do Motorista eh: " + motoristaComMenorSaldo.getNome());
-        System.out.println("\tO saldo do Motorista eh: R$ " + motoristaComMenorSaldo.getContaRecebimento().getSaldo());
+        System.out.println("\tO nome do MOTORISTA é: " + motoristaComMenorSaldo.getNome());
+        System.out.println("\tO saldo do Motorista é: R$ " + motoristaComMenorSaldo.getContaRecebimento().getSaldo());
         
+        //Adicionar ao histórico do motorista
         motoristaComMenorSaldo.adicionaCorridaAoHistorico(corridaMapeada);
+        
+        //Remove a corrida pendente, pois sempre estou mapeando a primeira corrida da lista de corridas pendentes
         listaCorridasPendentes.remove(0);
     }
 
