@@ -82,4 +82,4 @@ Este é o meu repositório com alguns exercícios que serão desenvolvidos na ca
 ### 9 - Polimorfismo
 |                             |                             |                           |                             |                             |
 |            :---:            |            :---:            |            :---:          |             :---:           |              :---:          |
-| [01](exercicios/polimorfismo/01) | [02](exercicios/polimorfismo/02) | [03](exercicios/polimorfismo/03)
+| [01](exercicios/polimorfismo/01) | [02](exercicios/polimorfismo/02) | [03](exercicios/polimorfismo/03) | [04](exercicios/polimorfismo/04) 
