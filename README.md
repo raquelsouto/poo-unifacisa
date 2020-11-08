@@ -27,7 +27,8 @@ Este é o meu repositório com alguns exercícios que serão desenvolvidos na ca
 [3 - Encapsulamento](doc/Encapsulamento.md)    
 [4 - Herança e composição](doc/HerancaEComposicao.md)  
 [5 - Polimorfismo](doc/Polimorfismo.md)  
-&nbsp;&nbsp;&nbsp;&nbsp;[5.1 - Classes abstratas](doc/ClasseAbstrata.md) 
+&nbsp;&nbsp;&nbsp;&nbsp;[5.1 - Classes abstratas](doc/ClasseAbstrata.md)  
+[6 - Interfaces](doc/Interfaces.md)  
 
 ## Exercícios  
 
@@ -83,3 +84,8 @@ Este é o meu repositório com alguns exercícios que serão desenvolvidos na ca
 |                             |                             |                           |                             |                             |
 |            :---:            |            :---:            |            :---:          |             :---:           |              :---:          |
 | [01](exercicios/polimorfismo/01) | [02](exercicios/polimorfismo/02) | [03](exercicios/polimorfismo/03) | [04](exercicios/polimorfismo/04) 
+
+### 10 - Interface
+|                             |                             |                           |                             |                             |
+|            :---:            |            :---:            |            :---:          |             :---:           |              :---:          |
+| [01](exercicios/interface/01) 
