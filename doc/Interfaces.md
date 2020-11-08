@@ -5,18 +5,6 @@
 * Interface é a maneira pela qual conversa-se com um autenticável; a maneira através da qual conversa-se com um objeto;
 * Uma interface é uma série de métodos, mas nunca pode conter  a implementação deles. Ela só expõe **o que o objeto deve fazer**, e não como ele faz, nem o que ele tem. Como ele faz vai ser definido em uma implementação dessa interface;
 * Dentro das interfaces existem somente *assinaturas de métodos e propriedades*, cabendo à classe que a utilizará realizar a implementação das assinaturas, dando comportamentos práticos aos métodos.  
-Exemplo:
-~~~java
-public interface FiguraGeometrica {
-    
-    public String getNomeFigura();
-    public int getArea();
-    public int getPerimetro();
-}
-~~~
-
-* Para realizar a chamada/referência a uma interface por uma determinada classe, é necessário adicionar a palavra-chave **implements** ao final da assinatura da classe que irá implementar a interface escolhida.
-    * Sintaxe: *public class nomeDaClasse* **implements** *nomeDaInterface*  
 
 Exemplo:
 ~~~java
@@ -25,7 +13,14 @@ public interface Veiculo {
     public String getNome();
     public String getId();
 }
+~~~
 
+* Para realizar a chamada/referência a uma interface por uma determinada classe, é necessário adicionar a palavra-chave **implements** ao final da assinatura da classe que irá implementar a interface escolhida.
+    * Sintaxe: *public class nomeDaClasse* **implements** *nomeDaInterface*  
+
+Exemplo:
+
+~~~java
 public interface Motor {
 
     public String getModelo();
