@@ -4,9 +4,11 @@ import java.util.List;
 public class Cliente {
 
     private int mesa;
+    private String nome;
     private List<Item> listaDePedidos; 
 
-    Cliente() {
+    Cliente(String nome) {
+        this.nome = nome;
         this.listaDePedidos = new ArrayList<Item>();
     }
 
@@ -38,6 +40,21 @@ public class Cliente {
     public void setMesa(int mesa) {
         this.mesa = mesa;
     }
+    
+    public String getNome() {
+        return nome;
+    }
 
+    @Override
+    public String toString() {
+        String output = "";
+        output += "Nome: " + getNome()+ "\n";
+        output += "Mesa: " + getMesa()+ "\n";
+        for (int i = 0; i < listaDePedidos.size(); i++) {
+            output+= "Pedido: " + this.listaDePedidos.get(i).getDescricao()+ "\n";
+        }
+        
+        return output;
+    }
 
 }
