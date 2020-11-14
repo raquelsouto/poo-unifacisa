@@ -89,3 +89,8 @@ Este é o meu repositório com alguns exercícios que serão desenvolvidos na ca
 |                             |                             |                           |                             |                             |
 |            :---:            |            :---:            |            :---:          |             :---:           |              :---:          |
 | [01](exercicios/interface/01) 
+
+### 11 - Exceções
+|                             |                             |                           |                             |                             |
+|            :---:            |            :---:            |            :---:          |             :---:           |              :---:          |
+| [01](exercicios/excecoes/01) 
