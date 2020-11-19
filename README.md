@@ -93,4 +93,4 @@ Este é o meu repositório com alguns exercícios que serão desenvolvidos na ca
 ### 11 - Exceções
 |                             |                             |                           |                             |                             |
 |            :---:            |            :---:            |            :---:          |             :---:           |              :---:          |
-| [01](exercicios/excecoes/01) 
+| [01](exercicios/excecoes/01) | [02](exercicios/excecoes/02) 
