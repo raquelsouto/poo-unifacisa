@@ -94,3 +94,10 @@ Este é o meu repositório com alguns exercícios que serão desenvolvidos na ca
 |                             |                             |                           |                             |                             |
 |            :---:            |            :---:            |            :---:          |             :---:           |              :---:          |
 | [01](exercicios/excecoes/01) | [02](exercicios/excecoes/02) 
+
+
+### Prova
+
+|                             |                             |                           |                             |                             |
+|            :---:            |            :---:            |            :---:          |             :---:           |              :---:          |
+| [01](exercicios/prova-por-unidade/01) | [02](exercicios/prova-por-unidade/02) 
