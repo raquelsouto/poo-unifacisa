@@ -38,7 +38,7 @@ public class GoogleAgenda {
         return tempo;
     }
 
-    public int getQuantidadeDeEventosSemAglomeração() {
+    public int getQuantidadeDeEventosSemAglomeracao() {
         int cont = 0;
 
         for (int i = 0; i < quantidadeDeEventos; i++) {
